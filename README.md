@@ -1,4 +1,5 @@
 # Point-Cloud-Transformation-and-Rendering
+
 C++  project for manipulating volumetric data. Load the provided point cloud file and apply different 3D transformations to the point cloud: Translation, rotation and displacement
 
 1) To compile the code, you can simply run the command:
@@ -20,3 +21,8 @@ The parameters for the exampler operations are:
 - Dx = 20, Dy = 4, Dz = 60 for the translation operation
 - lamda = 45 degrees around the y-axis
 - displacement in the: x-axis = 0,  y-axis = -0.9, z-axis = 1.0
+
+  Input point cloud:![inputData](https://github.com/baranataman/Point-Cloud-Transformation-and-Rendering/assets/23663934/9fe60f37-c8ea-4534-b0ca-8019ef16325e)
+The result of translation, rotation and displacement: ![result_of_translation_rotation_and_displacement](https://github.com/baranataman/Point-Cloud-Transformation-and-Rendering/assets/23663934/39e7208f-e4ec-43f5-a8fa-bab67f684444)
+
+  
