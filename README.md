@@ -23,6 +23,7 @@ The parameters for the exampler operations are:
 - displacement in the: x-axis = 0,  y-axis = -0.9, z-axis = 1.0
 
   Input point cloud:![inputData](https://github.com/baranataman/Point-Cloud-Transformation-and-Rendering/assets/23663934/9fe60f37-c8ea-4534-b0ca-8019ef16325e)
-The result of translation, rotation and displacement: ![result_of_translation_rotation_and_displacement](https://github.com/baranataman/Point-Cloud-Transformation-and-Rendering/assets/23663934/39e7208f-e4ec-43f5-a8fa-bab67f684444)
+The result of translation and rotation: ![result_of_translation_and_rotation](https://github.com/baranataman/Point-Cloud-Transformation-and-Rendering/assets/23663934/6fe45641-4026-490b-ae84-381f83c0137d)
+
 
   
