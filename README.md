@@ -20,7 +20,7 @@ Their rendered images are also included with the relevant file names.
 The parameters for the exampler operations are:
 
 - Dx = 20, Dy = 4, Dz = 60 for the translation operation
-- lamda = 45 degrees around the y-axis
+- lambda = 45 degrees around the y-axis
 - displacement in the: x-axis = 0,  y-axis = -0.9, z-axis = 1.0
 
   Input point cloud:![inputData](https://github.com/baranataman/Point-Cloud-Transformation-and-Rendering/assets/23663934/9fe60f37-c8ea-4534-b0ca-8019ef16325e)
